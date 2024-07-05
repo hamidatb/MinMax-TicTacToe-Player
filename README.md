@@ -1,6 +1,6 @@
 # Tic Tac Toe Player
 
-Welcome to the Tic Tac Toe Player project! This project implements the classic game of Tic Tac Toe using the minimax algorithm to create an unbeatable AI opponent. This README provides an overview of the project, setup instructions, and insights into the code.
+Welcome to my AI Tic Tac Toe Player project! This project implements the classic game of Tic Tac Toe using the minimax algorithm to create an unbeatable AI opponent. This README provides an overview of the project, setup instructions, and insights into my code.
 
 ## Introduction
 
