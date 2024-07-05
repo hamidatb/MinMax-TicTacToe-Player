@@ -2,16 +2,6 @@
 
 Welcome to the Tic Tac Toe Player project! This project implements the classic game of Tic Tac Toe using the minimax algorithm to create an unbeatable AI opponent. This README provides an overview of the project, setup instructions, and insights into the code.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Tic Tac Toe, also known as Noughts and Crosses, is a simple and fun game played between two players who take turns marking spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. This project leverages the minimax algorithm, a popular AI strategy, to create an intelligent Tic Tac Toe player that cannot be defeated.
@@ -42,3 +32,16 @@ Tic Tac Toe, also known as Noughts and Crosses, is a simple and fun game played 
 Run the Tic Tac Toe game using the following command:
 ```bash
 python tic_tac_toe.py
+```
+
+
+## How It Works
+The game uses a simple command-line interface. Players can enter their moves as coordinates, and the AI responds with its move, calculated through the Minimax algorithm. The game continues until a player wins or there's a tie.
+
+## Future Improvements
+- Implement a GUI using Tkinter or PyGame to make it more accessible.
+- Add difficulty levels for the AI.
+- Expand the AI to support other games using similar algorithms.
+
+## License
+This project is open-sourced under the MIT license.
